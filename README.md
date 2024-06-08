@@ -1,7 +1,13 @@
 <h1 align="center">Heyyy, I'm Rijo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Engineer!</h3>
 
-- 🔭 I’m currently working on **Netflix-GPT**
+- 🔭 I’m currently working on [Netflix-GPT](https://capstone-flixxi-client.vercel.app/)
+
+- 🌱 I’m currently learning **Next JS**
+
+- 📫 How to reach me **connectrijoben@gmail.com**
+
+- ⚡ Fun fact **“Blessed, stressed and football-obsessed”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
